@@ -13,4 +13,4 @@ A brief report on version iteration differences of Theia3D on a large
 outdoor gait dataset.
 
 [Click here for the nice HTML
-version.](https://htmlpreview.github.io/https://github.com/jouterleys/Theia3D-Version-Compare/blob/main/Theia3D-Version-Compare-HTML.html)
+version.](https://htmlpreview.github.io/?https://github.com/jouterleys/Theia3D-Version-Compare/blob/main/Theia3D-Version-Compare-HTML.html)
