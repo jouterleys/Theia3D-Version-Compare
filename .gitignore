@@ -1,0 +1,19 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+## directories
+/chkpts
+/dump
+
+## filetypes
+*.c3d
+*.cmo
+*.cmx
+*.pptx
+*.mp4
+*.R
+*.Rproj
+*.html
+*.Rmd
